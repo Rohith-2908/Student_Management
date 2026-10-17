@@ -1,1 +1,1 @@
-# Student_Management
+A Student Management Application using Git branching workflow.
